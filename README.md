@@ -2,7 +2,7 @@
 
 - Andrew Mack
 - DU Data Analytics & Visualization
-- Module 6 Homework Challemge
+- Module 5 Homework Challemge
 
 ## Contents: Files for Matplotlib, Pyplot and Panda plots homework module
 
