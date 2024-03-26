@@ -6,12 +6,13 @@
 
 ## Contents: Files for Matplotlib, Pyplot and Panda plots homework module
 
-## Sources
+## Resources
 
 - class files provided: initial Jupyter Notebook and .csv data sets
 - class activities and lecture notes for reference
 - tutoring session with tutor Hassan
 - source for outlier styling in boxplots: https://stackoverflow.com/questions/43342564/flier-colors-in-boxplot-with-matplotlib
+- consulted with cohort specifically on best practcies for setting loop variables to collect iterations; i.e., relating on list placeholder set outside of loop cannot be acted on in the same ways as a subset within the loop, upon which functions can be applied.
 
 ## Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
